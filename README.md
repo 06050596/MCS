@@ -1,4 +1,4 @@
 # MCS
-CHECK POINT 3
-\nMCS
+CHECK POINT3   
+MCS  
 MCS Cloud 顯示開關狀態
